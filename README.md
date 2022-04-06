@@ -17,3 +17,13 @@ http://localhost:80
 You can manage users in the keyrock dashboard in 
 
 http://localhost:3005
+
+
+If you run the docker in the GCP you can access the web-app and keyrock in:
+
+http://<EXTERNAL-IP>:80
+http://<EXTERNAL-IP>:3005
+  
+Where external ip is given by GCP
+
+Also to access the 3005 and 80 ports in the cloud you need to configure the ports from the firewall in the GCP
