@@ -1,0 +1,163 @@
+[{
+	"_id": {
+		"id": "1",
+		"type": "Concert",
+		"servicePath": "/"
+	 },
+		"attrNames": [
+		"enddate",
+		"endsale",
+		"sold_tick",
+		"startdate",
+		"startsale",
+		"title",
+		"user",
+		"tickets"
+	  ],
+	  "attrs": {
+		"enddate": {
+			"type": "Date",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "2022-01-18",
+			"mdNames": []
+		},
+		"endsale": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "0",
+			"mdNames": []
+		},
+		"sold_tick": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "0",
+			"mdNames": []
+		},
+		"startdate": {
+			"type": "Date",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "2022-01-15",
+			"mdNames": []
+		},
+		"startsale": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "0",
+			"mdNames": []
+		},
+		"tickets": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "2500",
+			"mdNames": []
+		},
+		"title": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "NYE Fest",
+			"mdNames": []
+		},
+		"user": {
+			"type": "text",
+			"creDate": 1639444191,
+			"modDate": 1639444191,
+			"value": "19499948-7572-4487-9f52-09614e9c476f",
+			"mdNames": []
+		}
+	},
+	"creDate": 1639444191,
+	"modDate": 1639444191,
+	"lastCorrelator": "19499948-7572-4487-9f52-09614e9c476f"
+},{
+	"_id": {
+			"id": "2",
+			"type": "Concert",
+			"servicePath": "/"
+		 },
+	    "attrNames": [
+		"enddate",
+		"endsale",
+		"sold_tick",
+		"startdate",
+		"startsale",
+		"title",
+		"user",
+		"tickets"
+	  ],
+	  "attrs": {
+        "enddate": {
+            "type": "Date",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+			"value": "2022-01-18",
+		    "mdNames": []
+        },
+        "enddate": {
+            "type": "Date",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+			"value": "2022-01-28",
+		    "mdNames": []
+        },
+        "endsale": {
+            "type": "text",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+			"value": "0",
+		    "mdNames": []
+        },
+        "sold_tick": {
+            "type": "text",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+			"value": "0",
+		    "mdNames": []
+        },
+        "startdate": {
+            "type": "Date",
+            "value": "2022-01-11",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+		    "mdNames": []
+        },
+        "startsale": {
+            "type": "text",
+            "value": "0",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+		    "mdNames": []
+        },
+        "tickets": {
+            "type": "text",
+            "value": "5000",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+		    "mdNames": []
+        },
+        "title": {
+            "type": "text",
+            "value": "Chania Rock Fest",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+		    "mdNames": []
+        },
+        "user": {
+            "type": "text",
+            "value": "19499948-7572-4487-9f52-09614e9c476f",
+            "creDate": 1639444191,
+		    "modDate": 1639444191,
+		    "mdNames": []
+        }
+	},
+  "creDate": 1639444191,
+  "modDate": 1639444191,
+  "lastCorrelator": "19499948-7572-4487-9f52-09614e9c476f"
+}
+]
