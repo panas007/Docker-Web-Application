@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "title": "NYE Fest",
+  "date": "2022-01-22",
+  "artistname": "Linkin Park",
+  "category": "Rock",
+  "createby": "19499948-7572-4487-9f52-09614e9c476f",
+  "start_date": "2022-01-15",
+  "end_date": "2022-01-18",
+  "total_tickets": 2500
+},{"id": 2,
+  "title": "Chania Rock Fest",
+  "date": "2022-02-01",
+  "artistname": "Abnormals",
+  "category": "Rock",
+  "createby": "19499948-7572-4487-9f52-09614e9c476f",
+  "start_date": "2022-01-11",
+  "end_date": "2022-01-28",
+  "total_tickets": 5000
+}
+]
