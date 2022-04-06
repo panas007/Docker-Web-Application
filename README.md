@@ -12,17 +12,18 @@ In the terminal (or powershell on windows) run
 
 You can access the web-app in :
 
-http://localhost:80
+- http://localhost:80
 
 You can manage users in the keyrock dashboard in 
 
-http://localhost:3005
+- http://localhost:3005
 
 
 If you run the docker in the GCP you can access the web-app and keyrock in:
 
-http://<EXTERNAL-IP>:80
-http://<EXTERNAL-IP>:3005
+- http://EXTERNAL-IP/:80
+  
+- http://EXTERNAL-IP:3005
   
 Where external ip is given by GCP
 
