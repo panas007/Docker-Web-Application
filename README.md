@@ -2,7 +2,16 @@
 Docker web applications in GCP 
 
 Web application for concerts in your area , users can see the ticket availability and dates of their favorites concert. 
-If a concert is added to favorites users can see live new feeds for the concert (e.g new dates or ticket supply)
+If a concert is added to favorites, users can see live new feeds for the added concert (e.g new dates or ticket supply)
+
+The application includes the microservices listed bellow:
+- MongoDB
+- RestApi (php:7.4.11-apache)
+- Application logic (php:7.4.11-apache)
+- MySQL 
+- Pep-proxy
+- Keyrock-idM
+- Orion context broker
 
 To run the web application you need to install Docker.
 
