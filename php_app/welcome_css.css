@@ -1,0 +1,136 @@
+body {
+    --color-pri: #000000;
+    --color-sex: #3cc3e8;
+    --border-radius: 2px;
+    --border-radius2: 4px;
+    margin: 0;
+    /*background: url(./welcome_backround.jpg);*/
+    background: white;
+    background-size: cover;
+}
+* {
+    box-sizing: border-box;
+}
+/*
+ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+    border-width: 1px 0;
+    list-style: none
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    font-family:Calibri;
+    display:inline-block;
+    font-size:20px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}*/
+
+.main-text {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    background-color: #808080;
+    background-image: url(music3.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.welcome_con {
+    float: left;
+    padding: 50px;
+    width: 70%;
+    background-color: #f8d5d5;/*ffb4b4*/
+    height: 100vh;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+.descr {
+    font-size: 26px;
+    font-family: Calibri;
+}
+.notifications {
+    font-size: 18px;
+    font-family: Calibri;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 50vh;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+@media (max-width: 600px) {
+    .main-text {
+        width: 100%;
+        height: auto;
+    }
+    .welcome_con {
+        width: 100%;
+        height: auto;
+    }
+    .my-custom-scrollbar {
+        width: 100%;
+        height: auto;
+    }
+}
+
+
+.topnav {
+    position: relative;
+    overflow: hidden;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #333;
+    padding-left: 5px;
+}
+nav {
+    position: relative;
+    margin: auto;
+    display: none;
+}
+
+/*   .topnav :hover {
+        transform: translateY(0);
+    }*/
+        .topnav a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+.topnav-right {
+    float: right;
+}
+
+

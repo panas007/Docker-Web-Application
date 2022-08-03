@@ -1,0 +1,103 @@
+body {
+    --color-pri: #000000;
+    --color-sex: #3cc3e8;
+    --border-radius:2px;
+    --border-radius2:4px;
+
+    margin: 50px;
+    align-content: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    font-size: 17px;
+    background: url(./login_backround.jpg);
+    background-size: cover
+}
+
+.container {
+    width: 350px;
+    height: 480px;
+    margin: 1rem;
+    text-align: center;
+    padding: 2rem;
+    box-shadow: 0 0 15px #000000;
+    border-radius: var(--border-radius);
+    background: #ffffff
+}
+
+.form_hidden{
+    display:none;
+}
+
+.container, form_input {
+    font: 500px 1rem; 
+    font-family: 'Roboto', sans-serif;
+}
+.form_title{
+    margin-bottom : 2rem;
+    text-align : center;
+}
+
+.form > *:first-child{
+    margin-top:0;
+}
+.form > *:last-child {
+    margin-bottom: 0;
+}
+
+.form_input-group{
+    margin-bottom:1rem;
+
+}
+
+.form_input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border-radius: var(--border-radius2);
+    border: 1px solid #d3cdcd;
+    outline: none;
+    background: #eeeeee;
+    transition: background 0.2s, border color 0.2s;
+}
+
+.form_input:focus {
+    border-color:#3cc3e8;
+    background:#ffffff;
+}
+
+.form_button_group {
+    margin-bottom: 1rem;
+}
+
+.form_button {
+    width: 50%;
+    margin: 0.5rem;
+    padding: 0.5rem 2rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #000000;
+    outline: none;
+    border: none;
+    border-radius: var(--border-radius2);
+    cursor: pointer;
+    background: #3cc3e8
+}
+
+.form_button:hover {
+    background:#187bb5
+}
+/*
+.form_button:active {
+    transform:scale(0,98);
+}*/
+/*
+.form_new_account {
+    text-align: center;
+    text-decoration: none;
+}
+.form_new_account:hover {
+    text-decoration: underline;
+}*/
+
