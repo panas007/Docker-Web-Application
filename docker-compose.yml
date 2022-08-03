@@ -73,7 +73,7 @@ services:
           - 'MYSQL_DATABASE=idm'
       volumes:
           - mysql_db:/var/lib/mysql
-          - ./Keyrock_mysql_backup:/docker-entrypoint-initdb.d 
+          - ./Keyrock_backup:/docker-entrypoint-initdb.d 
           
           
   keyrock:
