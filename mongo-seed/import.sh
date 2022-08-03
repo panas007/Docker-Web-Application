@@ -5,7 +5,7 @@ mongoimport --host mongo_data_con --db condata_db --collection concerts --type j
 
 mongoimport --host mongo_data_con --db condata_db --collection favorites 
 
-mongoimport --host mongo_data_con --db condata_db --collection feed
+mongoimport --host mongo_data_con --db condata_db --collection feeds
 
 mongoimport --host mongo_data_con --db condata_db --collection subs
 
