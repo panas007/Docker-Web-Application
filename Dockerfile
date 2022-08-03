@@ -1,6 +1,6 @@
 FROM php:7.4.11-apache
 
-COPY /php_app /var/www/html/
+COPY /Application_src /var/www/html/
 
 RUN apt-get update && apt-get install --yes \
     libssl-dev
