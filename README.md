@@ -40,8 +40,9 @@ Also to access the 3005 and 80 ports in the cloud you need to configure the port
 
 
 5 users have been created in the application , 2 simple users , 2 event organizers and 1 admin
-• admin@test.com (Administrator)
-• john@test.com (Event Organizer)
-• nick@test.com (Event Organizer)
-• panas007@test.com (User)
-• tony007@test.com (User)
+
+- admin@test.com (Administrator)
+- john@test.com (Event Organizer)
+- nick@test.com (Event Organizer)
+- panas007@test.com (User)
+- tony007@test.com (User)
