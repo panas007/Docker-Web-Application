@@ -28,7 +28,7 @@ You can manage users in the keyrock dashboard in
 - http://localhost:3005
 
 
-If you run the docker in the GCP you can access the web-app and keyrock in:
+If you run the docker in the GCP (VM Ubuntu 20.04) you can access the web-app and keyrock in:
 
 - http://EXTERNAL-IP/:80
   
