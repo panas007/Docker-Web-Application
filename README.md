@@ -46,3 +46,5 @@ Also to access the 3005 and 80 ports in the cloud you need to configure the port
 - nick@test.com (Event Organizer)
 - panas007@test.com (User)
 - tony007@test.com (User)
+
+Passwords for all users including admin are 1234
