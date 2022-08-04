@@ -34,7 +34,7 @@ If you run the docker in the GCP (VM Ubuntu 20.04) you can access the web-app an
   
 - http://EXTERNAL-IP:3005
   
-Where external ip is given by GCP
+Where external ip is given by GCP VM 
 
 Also to access the 3005 and 80 ports in the cloud you need to configure the ports from the firewall in the GCP
 
