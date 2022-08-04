@@ -13,6 +13,7 @@ The application includes the microservices listed bellow:
 - Keyrock-idM
 - Orion context broker
 
+#
 To run the web application you need to install Docker.
 
 In the terminal (or powershell on windows) run
@@ -27,7 +28,7 @@ You can manage users in the keyrock dashboard in
 
 - http://localhost:3005
 
-
+#
 If you run the docker in the GCP (VM Ubuntu 20.04) you can access the web-app and keyrock in:
 
 - http://EXTERNAL-IP/:80
@@ -38,7 +39,7 @@ Where external ip is given by GCP VM
 
 Also to access the 3005 and 80 ports in the cloud you need to configure the ports from the firewall in the GCP
 
-
+#
 5 users have been created in the application , 2 simple users , 2 event organizers and 1 admin
 
 - admin@test.com (Administrator)
